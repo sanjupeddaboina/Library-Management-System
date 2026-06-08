@@ -100,7 +100,7 @@ Each example API preceeded by "http://localhost:8080"
 * /transaction/issueBook--> issues a book(STUDENT)  
 .....
 ## Author and Developed by
-Saikat Chakraborty
+Sanjay Kumar Peddaboina
 
 
 
